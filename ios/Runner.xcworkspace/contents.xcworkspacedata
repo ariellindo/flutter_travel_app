@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/ariellindo/Projects/flutter/flutter_travel_app/ios/Travel App.xcodeproj">
+      location = "group:/Users/ariellindo/Projects/flutter/flutter_travel_app/ios/Runner.xcodeproj">
    </FileRef>
 </Workspace>
